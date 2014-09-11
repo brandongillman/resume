@@ -1,0 +1,13 @@
+body {
+	background-color: #ccc;
+	margin: 0 20px;
+}
+.date{
+	float: right;
+}
+h1{
+	text-align: center;
+}
+.header{
+	text-align: center;
+}

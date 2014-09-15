@@ -12,9 +12,15 @@ h1{
 }
 .content{
 	margin: 35px;
-	border: solid 1px black;
-	padding: 20px;
+	border: solid 2px black;
+	padding: 40px;
 	box-shadow: 10px 10px 5px #888888;
 	font-family: monospace;
 	font-size: 9pt;
+}
+hr{
+	border: solid 1px black;
+}
+h2{
+	font-size: 11pt;
 }

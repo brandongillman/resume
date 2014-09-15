@@ -1,5 +1,4 @@
 body {
-	background-color: #ccc;
 	margin: 0 20px;
 }
 .date{
@@ -10,4 +9,12 @@ h1{
 }
 .header{
 	text-align: center;
+}
+.content{
+	margin: 35px;
+	border: solid 1px black;
+	padding: 20px;
+	box-shadow: 10px 10px 5px #888888;
+	font-family: monospace;
+	font-size: 9pt;
 }
